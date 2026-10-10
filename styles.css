@@ -1,13 +1,13 @@
 /* Global Styles */
 body {
     margin: 0;
-    font-family: 'Times New Roman', sans-serif;
+    font-family: 'Times New Roman', Times New Roman;
     background: #f7f7f7;
     color: #333;
 }
 
 h1, h2, h3 {
-    font-family: 'Times New Roman', sans-serif;
+    font-family: 'Times New Roman', Times New Roman;
 }
 
 /* Navigation */
