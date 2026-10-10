@@ -1,13 +1,13 @@
 /* Global Styles */
 body {
     margin: 0;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Times New Roman', sans-serif;
     background: #f7f7f7;
     color: #333;
 }
 
 h1, h2, h3 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Times New Roman', sans-serif;
 }
 
 /* Navigation */
